@@ -1,0 +1,10 @@
+{
+    "LIB_PATH": "./../../python_libs",
+    "APP_NAME": "convertXlsToXlsx",
+    "APP_VERSION": "0.1",
+    "LOG_PATH": "/home/smark/logs/convertXlsToXlsx.log",
+    "LOG_InformationTypes": ["I","E","W"],
+    "LOG_WriteOnlyToLogFile": false,
+    "PATH_SEPARATOR": "/"
+    
+}
